@@ -1,2 +1,3 @@
-# fast-cli-tool-o8mj
+# Fast Cli Tool O8Mj
+
 A repository to test GitHub automation for issue management.
